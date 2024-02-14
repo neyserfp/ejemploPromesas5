@@ -1,0 +1,24 @@
+{
+    "tipo":"Pintores",
+    "estado":true,
+    "listado":[
+        {
+            "nombre":"Diego de Velasquez",
+            "nacimiento":1599,
+            "localidad":"Sevilla",
+            "obras":["Las meninas", "El triunfo de Baco", "La fragua de Vulcano"]
+        },
+        {
+            "nombre":"Francisco de Goya",
+            "nacimiento":1746,
+            "localidad":"Fuendetodos (Zaragoza)",
+            "obras":["El 3 de mayo en Madrid", "La maja de goya", "La familia de Carlos IV"]
+        },
+        {
+            "nombre":"Pablo Picasso",
+            "nacimiento":1881,
+            "localidad":"Málaga",
+            "obras":["Las señoras de Avignon", "El guernica", "Autoretrato"]
+        }
+    ]
+}
